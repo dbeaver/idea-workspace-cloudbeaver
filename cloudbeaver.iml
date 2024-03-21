@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../cloudbeaver">
+      <excludeFolder url="file://$MODULE_DIR$/../cloudbeaver/deploy/cloudbeaver" />
+      <excludeFolder url="file://$MODULE_DIR$/../cloudbeaver/server/bundles/io.cloudbeaver.resources.drivers.base/target" />
+      <excludeFolder url="file://$MODULE_DIR$/../cloudbeaver/server/bundles/io.cloudbeaver.server/target" />
+      <excludeFolder url="file://$MODULE_DIR$/../cloudbeaver/server/drivers/h2/target" />
+      <excludeFolder url="file://$MODULE_DIR$/../cloudbeaver/server/drivers/jaybird/target" />
+      <excludeFolder url="file://$MODULE_DIR$/../cloudbeaver/server/drivers/postgresql/target" />
+      <excludeFolder url="file://$MODULE_DIR$/../cloudbeaver/server/features/io.cloudbeaver.ce.drivers.feature/target" />
+      <excludeFolder url="file://$MODULE_DIR$/../cloudbeaver/server/features/io.cloudbeaver.product.ce.feature/target" />
+      <excludeFolder url="file://$MODULE_DIR$/../cloudbeaver/server/features/io.cloudbeaver.sample.feature/target" />
+      <excludeFolder url="file://$MODULE_DIR$/../cloudbeaver/server/features/io.cloudbeaver.server.feature/target" />
+      <excludeFolder url="file://$MODULE_DIR$/../cloudbeaver/server/product/provided-sample/target" />
+      <excludeFolder url="file://$MODULE_DIR$/../cloudbeaver/server/product/web-server/target" />
+      <excludeFolder url="file://$MODULE_DIR$/../cloudbeaver/server/test/io.cloudbeaver.test.platform/target" />
+      <excludeFolder url="file://$MODULE_DIR$/../cloudbeaver/webapp/.yarn" />
+      <excludeFolder url="file://$MODULE_DIR$/../cloudbeaver/webapp/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../cloudbeaver/webapp/packages/administration/dist" />
+      <excludeFolder url="file://$MODULE_DIR$/../cloudbeaver/webapp/packages/administration/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../cloudbeaver/webapp/packages/ag-grid-plugin/dist" />
+      <excludeFolder url="file://$MODULE_DIR$/../cloudbeaver/webapp/packages/ag-grid-plugin/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../cloudbeaver/webapp/packages/authentication/dist" />
+      <excludeFolder url="file://$MODULE_DIR$/../cloudbeaver/webapp/packages/authentication/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../cloudbeaver/webapp/packages/basic-connection-plugin/dist" />
+      <excludeFolder url="file://$MODULE_DIR$/../cloudbeaver/webapp/packages/basic-connection-plugin/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../cloudbeaver/webapp/packages/builder/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../cloudbeaver/webapp/packages/core-bootstrap/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../cloudbeaver/webapp/packages/core-cli/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../cloudbeaver/webapp/packages/core/dist" />
+      <excludeFolder url="file://$MODULE_DIR$/../cloudbeaver/webapp/packages/core/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../cloudbeaver/webapp/packages/dbeaver/dist" />
+      <excludeFolder url="file://$MODULE_DIR$/../cloudbeaver/webapp/packages/dbeaver/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../cloudbeaver/webapp/packages/product-default/lib" />
+      <excludeFolder url="file://$MODULE_DIR$/../cloudbeaver/webapp/packages/product-default/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../cloudbeaver/webapp/packages/sql-editor/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../cloudbeaver/server/features/io.cloudbeaver.ws.feature/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

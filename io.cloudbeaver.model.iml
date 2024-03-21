@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../cloudbeaver/server/bundles/io.cloudbeaver.model/target/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../cloudbeaver/server/bundles/io.cloudbeaver.model">
+      <sourceFolder url="file://$MODULE_DIR$/../cloudbeaver/server/bundles/io.cloudbeaver.model/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../cloudbeaver/server/bundles/io.cloudbeaver.model/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="library" name="ECLIPSE" level="project" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.model" exported="" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.registry" exported="" />
+    <orderEntry type="library" exported="" name="SDK GraphQL" level="project" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.net.ssh" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.model.sm" exported="" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.model.event" exported="" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.data.gis" exported="" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.model.nio" exported="" />
+  </component>
+</module>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../cloudbeaver/server/bundles/io.cloudbeaver.product.ce/target/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../cloudbeaver/server/bundles/io.cloudbeaver.product.ce">
+      <sourceFolder url="file://$MODULE_DIR$/../cloudbeaver/server/bundles/io.cloudbeaver.product.ce/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../cloudbeaver/server/bundles/io.cloudbeaver.product.ce/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="library" name="ECLIPSE" level="project" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="io.cloudbeaver.server" />
+  </component>
+</module>
