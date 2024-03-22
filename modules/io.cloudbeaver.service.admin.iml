@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager">
-    <output url="file://$MODULE_DIR$/../cloudbeaver/server/bundles/io.cloudbeaver.connect.provider.sample/target/classes" />
+    <output url="file://$MODULE_DIR$/../../cloudbeaver/server/bundles/io.cloudbeaver.service.admin/target/classes" />
     <exclude-output />
-    <content url="file://$MODULE_DIR$/../cloudbeaver/server/bundles/io.cloudbeaver.connect.provider.sample">
-      <sourceFolder url="file://$MODULE_DIR$/../cloudbeaver/server/bundles/io.cloudbeaver.connect.provider.sample/src" isTestSource="false" />
-      <excludeFolder url="file://$MODULE_DIR$/../cloudbeaver/server/bundles/io.cloudbeaver.connect.provider.sample/target" />
+    <content url="file://$MODULE_DIR$/../../cloudbeaver/server/bundles/io.cloudbeaver.service.admin">
+      <sourceFolder url="file://$MODULE_DIR$/../../cloudbeaver/server/bundles/io.cloudbeaver.service.admin/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../../cloudbeaver/server/bundles/io.cloudbeaver.service.admin/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="library" name="ECLIPSE" level="project" />

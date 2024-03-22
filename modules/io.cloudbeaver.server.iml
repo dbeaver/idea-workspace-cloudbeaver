@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager">
-    <output url="file://$MODULE_DIR$/../cloudbeaver/server/bundles/io.cloudbeaver.server/target/classes" />
+    <output url="file://$MODULE_DIR$/../../cloudbeaver/server/bundles/io.cloudbeaver.server/target/classes" />
     <exclude-output />
-    <content url="file://$MODULE_DIR$/../cloudbeaver/server/bundles/io.cloudbeaver.server">
-      <sourceFolder url="file://$MODULE_DIR$/../cloudbeaver/server/bundles/io.cloudbeaver.server/src" isTestSource="false" />
-      <excludeFolder url="file://$MODULE_DIR$/../cloudbeaver/server/bundles/io.cloudbeaver.server/target" />
+    <content url="file://$MODULE_DIR$/../../cloudbeaver/server/bundles/io.cloudbeaver.server">
+      <sourceFolder url="file://$MODULE_DIR$/../../cloudbeaver/server/bundles/io.cloudbeaver.server/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../../cloudbeaver/server/bundles/io.cloudbeaver.server/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

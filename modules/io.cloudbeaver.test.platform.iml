@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager">
-    <output url="file://$MODULE_DIR$/../cloudbeaver/server/bundles/io.cloudbeaver.service.rm/target/classes" />
+    <output url="file://$MODULE_DIR$/../../cloudbeaver/server/test/io.cloudbeaver.test.platform/target/classes" />
     <exclude-output />
-    <content url="file://$MODULE_DIR$/../cloudbeaver/server/bundles/io.cloudbeaver.service.rm">
-      <sourceFolder url="file://$MODULE_DIR$/../cloudbeaver/server/bundles/io.cloudbeaver.service.rm/src" isTestSource="false" />
-      <excludeFolder url="file://$MODULE_DIR$/../cloudbeaver/server/bundles/io.cloudbeaver.service.rm/target" />
+    <content url="file://$MODULE_DIR$/../../cloudbeaver/server/test/io.cloudbeaver.test.platform">
+      <sourceFolder url="file://$MODULE_DIR$/../../cloudbeaver/server/test/io.cloudbeaver.test.platform/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="library" name="ECLIPSE" level="project" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.model" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.registry" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.model.sql" />
     <orderEntry type="module" module-name="io.cloudbeaver.server" />
-    <orderEntry type="module" module-name="io.cloudbeaver.model" />
+    <orderEntry type="module" module-name="io.cloudbeaver.service.rm.nio" />
   </component>
 </module>

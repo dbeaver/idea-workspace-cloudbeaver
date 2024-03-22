@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager">
-    <output url="file://$MODULE_DIR$/../cloudbeaver/server/bundles/io.cloudbeaver.service.metadata/target/classes" />
+    <output url="file://$MODULE_DIR$/../../cloudbeaver/server/bundles/io.cloudbeaver.service.data.transfer/target/classes" />
     <exclude-output />
-    <content url="file://$MODULE_DIR$/../cloudbeaver/server/bundles/io.cloudbeaver.service.metadata">
-      <sourceFolder url="file://$MODULE_DIR$/../cloudbeaver/server/bundles/io.cloudbeaver.service.metadata/src" isTestSource="false" />
-      <excludeFolder url="file://$MODULE_DIR$/../cloudbeaver/server/bundles/io.cloudbeaver.service.metadata/target" />
+    <content url="file://$MODULE_DIR$/../../cloudbeaver/server/bundles/io.cloudbeaver.service.data.transfer">
+      <sourceFolder url="file://$MODULE_DIR$/../../cloudbeaver/server/bundles/io.cloudbeaver.service.data.transfer/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../../cloudbeaver/server/bundles/io.cloudbeaver.service.data.transfer/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="library" name="ECLIPSE" level="project" />
@@ -15,5 +15,6 @@
     <orderEntry type="module" module-name="org.jkiss.dbeaver.data.gis" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.model.sql" />
     <orderEntry type="module" module-name="io.cloudbeaver.server" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.data.transfer" />
   </component>
 </module>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="SDK DBCP">
+    <CLASSES>
+      <root url="file://$ECLIPSE_PATH$/plugins/org.jkiss.bundle.apache.dbcp_2.12.2/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$ECLIPSE_PATH$/plugins/org.jkiss.bundle.apache.dbcp_2.12.2/lib" recursive="false" />
+  </library>
+</component>

@@ -6,28 +6,26 @@
       <module fileurl="file://$PROJECT_DIR$/../idea-workspace-dbeaver/modules/dbeaver.iml" filepath="$PROJECT_DIR$/../idea-workspace-dbeaver/modules/dbeaver.iml" />
       <module fileurl="file://$PROJECT_DIR$/../idea-workspace-dbeaver/dbeaver-common.iml" filepath="$PROJECT_DIR$/../idea-workspace-dbeaver/dbeaver-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/idea-workspace-cloudbeaver.iml" filepath="$PROJECT_DIR$/idea-workspace-cloudbeaver.iml" />
-      <module fileurl="file://$PROJECT_DIR$/idea-workspace-dbeaver.iml" filepath="$PROJECT_DIR$/idea-workspace-dbeaver.iml" />
-      <module fileurl="file://$PROJECT_DIR$/io.cloudbeaver.model.iml" filepath="$PROJECT_DIR$/io.cloudbeaver.model.iml" />
-      <module fileurl="file://$PROJECT_DIR$/io.cloudbeaver.product.ce.iml" filepath="$PROJECT_DIR$/io.cloudbeaver.product.ce.iml" />
-      <module fileurl="file://$PROJECT_DIR$/io.cloudbeaver.resources.drivers.base.iml" filepath="$PROJECT_DIR$/io.cloudbeaver.resources.drivers.base.iml" />
-      <module fileurl="file://$PROJECT_DIR$/io.cloudbeaver.server.iml" filepath="$PROJECT_DIR$/io.cloudbeaver.server.iml" />
-      <module fileurl="file://$PROJECT_DIR$/io.cloudbeaver.service.admin.iml" filepath="$PROJECT_DIR$/io.cloudbeaver.service.admin.iml" />
-      <module fileurl="file://$PROJECT_DIR$/io.cloudbeaver.service.auth.iml" filepath="$PROJECT_DIR$/io.cloudbeaver.service.auth.iml" />
-      <module fileurl="file://$PROJECT_DIR$/io.cloudbeaver.service.data.transfer.iml" filepath="$PROJECT_DIR$/io.cloudbeaver.service.data.transfer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/io.cloudbeaver.service.fs.iml" filepath="$PROJECT_DIR$/io.cloudbeaver.service.fs.iml" />
-      <module fileurl="file://$PROJECT_DIR$/io.cloudbeaver.service.metadata.iml" filepath="$PROJECT_DIR$/io.cloudbeaver.service.metadata.iml" />
-      <module fileurl="file://$PROJECT_DIR$/io.cloudbeaver.service.rm.iml" filepath="$PROJECT_DIR$/io.cloudbeaver.service.rm.iml" />
-      <module fileurl="file://$PROJECT_DIR$/io.cloudbeaver.service.rm.nio.iml" filepath="$PROJECT_DIR$/io.cloudbeaver.service.rm.nio.iml" />
-      <module fileurl="file://$PROJECT_DIR$/io.cloudbeaver.service.security.iml" filepath="$PROJECT_DIR$/io.cloudbeaver.service.security.iml" />
-      <module fileurl="file://$PROJECT_DIR$/io.cloudbeaver.slf4j.iml" filepath="$PROJECT_DIR$/io.cloudbeaver.slf4j.iml" />
-      <module fileurl="file://$PROJECT_DIR$/io.cloudbeaver.test.platform.iml" filepath="$PROJECT_DIR$/io.cloudbeaver.test.platform.iml" />
-      <module fileurl="file://$PROJECT_DIR$/opt.iml" filepath="$PROJECT_DIR$/opt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../idea-workspace-dbeaver/idea-workspace-dbeaver.iml" filepath="$PROJECT_DIR$/../idea-workspace-dbeaver/idea-workspace-dbeaver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/io.cloudbeaver.connect.provider.sample.iml" filepath="$PROJECT_DIR$/modules/io.cloudbeaver.connect.provider.sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/io.cloudbeaver.model.iml" filepath="$PROJECT_DIR$/modules/io.cloudbeaver.model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/io.cloudbeaver.product.ce.iml" filepath="$PROJECT_DIR$/modules/io.cloudbeaver.product.ce.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/io.cloudbeaver.resources.drivers.base.iml" filepath="$PROJECT_DIR$/modules/io.cloudbeaver.resources.drivers.base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/io.cloudbeaver.server.iml" filepath="$PROJECT_DIR$/modules/io.cloudbeaver.server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/io.cloudbeaver.service.admin.iml" filepath="$PROJECT_DIR$/modules/io.cloudbeaver.service.admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/io.cloudbeaver.service.auth.iml" filepath="$PROJECT_DIR$/modules/io.cloudbeaver.service.auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/io.cloudbeaver.service.data.transfer.iml" filepath="$PROJECT_DIR$/modules/io.cloudbeaver.service.data.transfer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/io.cloudbeaver.service.fs.iml" filepath="$PROJECT_DIR$/modules/io.cloudbeaver.service.fs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/io.cloudbeaver.service.metadata.iml" filepath="$PROJECT_DIR$/modules/io.cloudbeaver.service.metadata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/io.cloudbeaver.service.rm.iml" filepath="$PROJECT_DIR$/modules/io.cloudbeaver.service.rm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/io.cloudbeaver.service.rm.nio.iml" filepath="$PROJECT_DIR$/modules/io.cloudbeaver.service.rm.nio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/io.cloudbeaver.service.security.iml" filepath="$PROJECT_DIR$/modules/io.cloudbeaver.service.security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/io.cloudbeaver.slf4j.iml" filepath="$PROJECT_DIR$/modules/io.cloudbeaver.slf4j.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/io.cloudbeaver.test.platform.iml" filepath="$PROJECT_DIR$/modules/io.cloudbeaver.test.platform.iml" />
       <module fileurl="file://$PROJECT_DIR$/../idea-workspace-dbeaver/modules/org.jkiss.dbeaver.ce.repository.iml" filepath="$PROJECT_DIR$/../idea-workspace-dbeaver/modules/org.jkiss.dbeaver.ce.repository.iml" />
       <module fileurl="file://$PROJECT_DIR$/../idea-workspace-dbeaver/modules/org.jkiss.dbeaver.cmp.simple.iml" filepath="$PROJECT_DIR$/../idea-workspace-dbeaver/modules/org.jkiss.dbeaver.cmp.simple.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../idea-workspace-dbeaver/modules/org.jkiss.dbeaver.core.iml" filepath="$PROJECT_DIR$/../idea-workspace-dbeaver/modules/org.jkiss.dbeaver.core.iml" />
       <module fileurl="file://$PROJECT_DIR$/../idea-workspace-dbeaver/modules/org.jkiss.dbeaver.data.console.iml" filepath="$PROJECT_DIR$/../idea-workspace-dbeaver/modules/org.jkiss.dbeaver.data.console.iml" />
       <module fileurl="file://$PROJECT_DIR$/../idea-workspace-dbeaver/modules/org.jkiss.dbeaver.data.gis.iml" filepath="$PROJECT_DIR$/../idea-workspace-dbeaver/modules/org.jkiss.dbeaver.data.gis.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../idea-workspace-dbeaver/modules/org.jkiss.dbeaver.data.gis.view.iml" filepath="$PROJECT_DIR$/../idea-workspace-dbeaver/modules/org.jkiss.dbeaver.data.gis.view.iml" />
       <module fileurl="file://$PROJECT_DIR$/../idea-workspace-dbeaver/modules/org.jkiss.dbeaver.data.office.iml" filepath="$PROJECT_DIR$/../idea-workspace-dbeaver/modules/org.jkiss.dbeaver.data.office.iml" />
       <module fileurl="file://$PROJECT_DIR$/../idea-workspace-dbeaver/modules/org.jkiss.dbeaver.data.transfer.iml" filepath="$PROJECT_DIR$/../idea-workspace-dbeaver/modules/org.jkiss.dbeaver.data.transfer.iml" />
       <module fileurl="file://$PROJECT_DIR$/../idea-workspace-dbeaver/modules/org.jkiss.dbeaver.dpi.app.iml" filepath="$PROJECT_DIR$/../idea-workspace-dbeaver/modules/org.jkiss.dbeaver.dpi.app.iml" />
@@ -51,7 +49,6 @@
       <module fileurl="file://$PROJECT_DIR$/../idea-workspace-dbeaver/modules/org.jkiss.dbeaver.ext.es.iml" filepath="$PROJECT_DIR$/../idea-workspace-dbeaver/modules/org.jkiss.dbeaver.ext.es.iml" />
       <module fileurl="file://$PROJECT_DIR$/../idea-workspace-dbeaver/modules/org.jkiss.dbeaver.ext.exasol.iml" filepath="$PROJECT_DIR$/../idea-workspace-dbeaver/modules/org.jkiss.dbeaver.ext.exasol.iml" />
       <module fileurl="file://$PROJECT_DIR$/../idea-workspace-dbeaver/modules/org.jkiss.dbeaver.ext.firebird.iml" filepath="$PROJECT_DIR$/../idea-workspace-dbeaver/modules/org.jkiss.dbeaver.ext.firebird.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../idea-workspace-dbeaver/modules/org.jkiss.dbeaver.ext.format.sqlworkbenchj.iml" filepath="$PROJECT_DIR$/../idea-workspace-dbeaver/modules/org.jkiss.dbeaver.ext.format.sqlworkbenchj.iml" />
       <module fileurl="file://$PROJECT_DIR$/../idea-workspace-dbeaver/modules/org.jkiss.dbeaver.ext.generic.iml" filepath="$PROJECT_DIR$/../idea-workspace-dbeaver/modules/org.jkiss.dbeaver.ext.generic.iml" />
       <module fileurl="file://$PROJECT_DIR$/../idea-workspace-dbeaver/modules/org.jkiss.dbeaver.ext.generic.test.iml" filepath="$PROJECT_DIR$/../idea-workspace-dbeaver/modules/org.jkiss.dbeaver.ext.generic.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/../idea-workspace-dbeaver/modules/org.jkiss.dbeaver.ext.greenplum.iml" filepath="$PROJECT_DIR$/../idea-workspace-dbeaver/modules/org.jkiss.dbeaver.ext.greenplum.iml" />
@@ -62,7 +59,6 @@
       <module fileurl="file://$PROJECT_DIR$/../idea-workspace-dbeaver/modules/org.jkiss.dbeaver.ext.hana.test.iml" filepath="$PROJECT_DIR$/../idea-workspace-dbeaver/modules/org.jkiss.dbeaver.ext.hana.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/../idea-workspace-dbeaver/modules/org.jkiss.dbeaver.ext.hive.iml" filepath="$PROJECT_DIR$/../idea-workspace-dbeaver/modules/org.jkiss.dbeaver.ext.hive.iml" />
       <module fileurl="file://$PROJECT_DIR$/../idea-workspace-dbeaver/modules/org.jkiss.dbeaver.ext.hsqldb.iml" filepath="$PROJECT_DIR$/../idea-workspace-dbeaver/modules/org.jkiss.dbeaver.ext.hsqldb.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../idea-workspace-dbeaver/modules/org.jkiss.dbeaver.ext.import_config.iml" filepath="$PROJECT_DIR$/../idea-workspace-dbeaver/modules/org.jkiss.dbeaver.ext.import_config.iml" />
       <module fileurl="file://$PROJECT_DIR$/../idea-workspace-dbeaver/modules/org.jkiss.dbeaver.ext.informix.iml" filepath="$PROJECT_DIR$/../idea-workspace-dbeaver/modules/org.jkiss.dbeaver.ext.informix.iml" />
       <module fileurl="file://$PROJECT_DIR$/../idea-workspace-dbeaver/modules/org.jkiss.dbeaver.ext.kognitio.iml" filepath="$PROJECT_DIR$/../idea-workspace-dbeaver/modules/org.jkiss.dbeaver.ext.kognitio.iml" />
       <module fileurl="file://$PROJECT_DIR$/../idea-workspace-dbeaver/modules/org.jkiss.dbeaver.ext.mssql.iml" filepath="$PROJECT_DIR$/../idea-workspace-dbeaver/modules/org.jkiss.dbeaver.ext.mssql.iml" />
@@ -75,20 +71,16 @@
       <module fileurl="file://$PROJECT_DIR$/../idea-workspace-dbeaver/modules/org.jkiss.dbeaver.ext.oracle.test.iml" filepath="$PROJECT_DIR$/../idea-workspace-dbeaver/modules/org.jkiss.dbeaver.ext.oracle.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/../idea-workspace-dbeaver/modules/org.jkiss.dbeaver.ext.phoenix.iml" filepath="$PROJECT_DIR$/../idea-workspace-dbeaver/modules/org.jkiss.dbeaver.ext.phoenix.iml" />
       <module fileurl="file://$PROJECT_DIR$/../idea-workspace-dbeaver/modules/org.jkiss.dbeaver.ext.postgresql.iml" filepath="$PROJECT_DIR$/../idea-workspace-dbeaver/modules/org.jkiss.dbeaver.ext.postgresql.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../idea-workspace-dbeaver/modules/org.jkiss.dbeaver.ext.postgresql.debug.core.iml" filepath="$PROJECT_DIR$/../idea-workspace-dbeaver/modules/org.jkiss.dbeaver.ext.postgresql.debug.core.iml" />
       <module fileurl="file://$PROJECT_DIR$/../idea-workspace-dbeaver/modules/org.jkiss.dbeaver.ext.postgresql.test.iml" filepath="$PROJECT_DIR$/../idea-workspace-dbeaver/modules/org.jkiss.dbeaver.ext.postgresql.test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../idea-workspace-dbeaver/modules/org.jkiss.dbeaver.ext.sample.database.iml" filepath="$PROJECT_DIR$/../idea-workspace-dbeaver/modules/org.jkiss.dbeaver.ext.sample.database.iml" />
       <module fileurl="file://$PROJECT_DIR$/../idea-workspace-dbeaver/modules/org.jkiss.dbeaver.ext.snowflake.core.iml" filepath="$PROJECT_DIR$/../idea-workspace-dbeaver/modules/org.jkiss.dbeaver.ext.snowflake.core.iml" />
       <module fileurl="file://$PROJECT_DIR$/../idea-workspace-dbeaver/modules/org.jkiss.dbeaver.ext.snowflake.test.iml" filepath="$PROJECT_DIR$/../idea-workspace-dbeaver/modules/org.jkiss.dbeaver.ext.snowflake.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/../idea-workspace-dbeaver/modules/org.jkiss.dbeaver.ext.spanner.iml" filepath="$PROJECT_DIR$/../idea-workspace-dbeaver/modules/org.jkiss.dbeaver.ext.spanner.iml" />
       <module fileurl="file://$PROJECT_DIR$/../idea-workspace-dbeaver/modules/org.jkiss.dbeaver.ext.sqlite.iml" filepath="$PROJECT_DIR$/../idea-workspace-dbeaver/modules/org.jkiss.dbeaver.ext.sqlite.iml" />
       <module fileurl="file://$PROJECT_DIR$/../idea-workspace-dbeaver/modules/org.jkiss.dbeaver.ext.sqlite.test.iml" filepath="$PROJECT_DIR$/../idea-workspace-dbeaver/modules/org.jkiss.dbeaver.ext.sqlite.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/../idea-workspace-dbeaver/modules/org.jkiss.dbeaver.ext.teradata.iml" filepath="$PROJECT_DIR$/../idea-workspace-dbeaver/modules/org.jkiss.dbeaver.ext.teradata.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../idea-workspace-dbeaver/modules/org.jkiss.dbeaver.ext.test.iml" filepath="$PROJECT_DIR$/../idea-workspace-dbeaver/modules/org.jkiss.dbeaver.ext.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/../idea-workspace-dbeaver/modules/org.jkiss.dbeaver.ext.tidb.iml" filepath="$PROJECT_DIR$/../idea-workspace-dbeaver/modules/org.jkiss.dbeaver.ext.tidb.iml" />
       <module fileurl="file://$PROJECT_DIR$/../idea-workspace-dbeaver/modules/org.jkiss.dbeaver.ext.trino.iml" filepath="$PROJECT_DIR$/../idea-workspace-dbeaver/modules/org.jkiss.dbeaver.ext.trino.iml" />
       <module fileurl="file://$PROJECT_DIR$/../idea-workspace-dbeaver/modules/org.jkiss.dbeaver.ext.vertica.iml" filepath="$PROJECT_DIR$/../idea-workspace-dbeaver/modules/org.jkiss.dbeaver.ext.vertica.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../idea-workspace-dbeaver/modules/org.jkiss.dbeaver.ext.wmi.iml" filepath="$PROJECT_DIR$/../idea-workspace-dbeaver/modules/org.jkiss.dbeaver.ext.wmi.iml" />
       <module fileurl="file://$PROJECT_DIR$/../idea-workspace-dbeaver/modules/org.jkiss.dbeaver.headless.iml" filepath="$PROJECT_DIR$/../idea-workspace-dbeaver/modules/org.jkiss.dbeaver.headless.iml" />
       <module fileurl="file://$PROJECT_DIR$/../idea-workspace-dbeaver/modules/org.jkiss.dbeaver.intro.iml" filepath="$PROJECT_DIR$/../idea-workspace-dbeaver/modules/org.jkiss.dbeaver.intro.iml" />
       <module fileurl="file://$PROJECT_DIR$/../idea-workspace-dbeaver/modules/org.jkiss.dbeaver.lang.iml" filepath="$PROJECT_DIR$/../idea-workspace-dbeaver/modules/org.jkiss.dbeaver.lang.iml" />
