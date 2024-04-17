@@ -13,7 +13,7 @@
               <option value="package" />
               <option value="-q" />
               <option value="exec:java" />
-              <option value="-Dexec.args=-config $PROJECT_DIR$/rcp-gen.properties -productFile $PROJECT_DIR$/../cloudbeaver/server/product/web-server/CloudbeaverServer.product -projectsFolder $PROJECT_DIR$/../ -eclipse $ECLIPSE_PATH$ -output $PROJECT_DIR$/../eclipse/workspace/.metadata/.plugins/org.eclipse.pde.core/CloudbeaverServer.product" />
+              <option value="-Dexec.args=-eclipse.version '${eclipse-version}' -config $PROJECT_DIR$/rcp-gen.properties -productFile $PROJECT_DIR$/../cloudbeaver/server/product/web-server/CloudbeaverServer.product -projectsFolder $PROJECT_DIR$/../ -eclipse $ECLIPSE_PATH$ -output $PROJECT_DIR$/../eclipse/workspace/.metadata/.plugins/org.eclipse.pde.core/CloudbeaverServer.product" />
             </list>
           </option>
           <option name="pomFileName" />
