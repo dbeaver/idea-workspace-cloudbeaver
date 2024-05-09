@@ -14,5 +14,10 @@
     <orderEntry type="module" module-name="org.jkiss.dbeaver.model.sql" />
     <orderEntry type="module" module-name="io.cloudbeaver.server" />
     <orderEntry type="module" module-name="io.cloudbeaver.service.rm.nio" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.ext.h2" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.ext.mssql" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.ext.mysql" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.ext.oracle" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.ext.postgresql" />
   </component>
 </module>
