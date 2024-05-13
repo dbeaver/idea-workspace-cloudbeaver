@@ -16,6 +16,7 @@
       <module fileurl="file://$PROJECT_DIR$/modules/io.cloudbeaver.service.auth.iml" filepath="$PROJECT_DIR$/modules/io.cloudbeaver.service.auth.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/io.cloudbeaver.service.data.transfer.iml" filepath="$PROJECT_DIR$/modules/io.cloudbeaver.service.data.transfer.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/io.cloudbeaver.service.fs.iml" filepath="$PROJECT_DIR$/modules/io.cloudbeaver.service.fs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/io.cloudbeaver.service.ldap.auth.iml" filepath="$PROJECT_DIR$/modules/io.cloudbeaver.service.ldap.auth.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/io.cloudbeaver.service.metadata.iml" filepath="$PROJECT_DIR$/modules/io.cloudbeaver.service.metadata.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/io.cloudbeaver.service.rm.iml" filepath="$PROJECT_DIR$/modules/io.cloudbeaver.service.rm.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/io.cloudbeaver.service.rm.nio.iml" filepath="$PROJECT_DIR$/modules/io.cloudbeaver.service.rm.nio.iml" />
