@@ -15,7 +15,7 @@
               <option value="-X" />
               <option value="-q" />
               <option value="exec:java" />
-              <option value="-Dexec.args=-eclipse.version '${eclipse-version}' -config $PROJECT_DIR$/rcp-gen.properties -projectsFolder $PROJECT_DIR$/../ -eclipse $PROJECT_DIR$/../dbeaver-workspace/dependencies -output $PROJECT_DIR$/../dbeaver-workspace/products/" />
+              <option value="-Dexec.args=-eclipse.version '${eclipse-version}' -config $PROJECT_DIR$/osgi-app.properties -projectsFolder $PROJECT_DIR$/../ -eclipse $PROJECT_DIR$/../dbeaver-workspace/dependencies -output $PROJECT_DIR$/../dbeaver-workspace/products/" />
             </list>
           </option>
           <option name="multimoduleDir" />
